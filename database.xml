@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database>
+    <tool>
+        <id>1</id>
+        <name>Mastodon tools search engine</name>
+        <description>Inception. \o/</description>
+        <link>https://github.com/DavidLibeau/search-mastodon-tools</link>
+        <icon>fa-search</icon>
+        <keywords>
+            <keyword>search</keyword>
+            <keyword>tools</keyword>
+            <keyword>api uses</keyword>
+        </keywords>
+    </tool>
+</database>
