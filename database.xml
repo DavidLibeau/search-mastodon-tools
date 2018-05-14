@@ -12,4 +12,17 @@
             <keyword>api uses</keyword>
         </keywords>
     </tool>
+    <tool>
+        <id>2</id>
+        <name>Mastodon scheduler</name>
+        <description>Schedule your toots!</description>
+        <link>https://github.com/DavidLibeau/mastodon-scheduler</link>
+        <icon>fa-clock-o </icon>
+        <keywords>
+            <keyword>scheduler</keyword>
+            <keyword>later</keyword>
+            <keyword>toots</keyword>
+            <keyword>symfony</keyword>
+        </keywords>
+    </tool>
 </database>
