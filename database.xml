@@ -25,4 +25,18 @@
             <keyword>symfony</keyword>
         </keywords>
     </tool>
+    <tool>
+        <id>3</id>
+        <name>Mastopeek</name>
+        <description>Monitor the health of the entire fediverse in seconds</description>
+        <link>https://mastopeek.app-dist.eu</link>
+        <icon>fa-line-chart</icon>
+        <keywords>
+            <keyword>search</keyword>
+            <keyword>tools</keyword>
+            <keyword>api uses</keyword>
+            <keyword>uptime</keyword>
+            <keyword>monitoring</keyword>
+        </keywords>
+    </tool>
 </database>
