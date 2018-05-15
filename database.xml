@@ -17,12 +17,149 @@
         <name>Mastodon scheduler</name>
         <description>Schedule your toots!</description>
         <link>https://github.com/DavidLibeau/mastodon-scheduler</link>
-        <icon>fa-clock-o </icon>
+        <icon>fa-clock-o</icon>
         <keywords>
             <keyword>scheduler</keyword>
             <keyword>later</keyword>
             <keyword>toots</keyword>
             <keyword>symfony</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>3</id>
+        <name>Mastopeek</name>
+        <description>Monitor the health of the entire fediverse in seconds</description>
+        <link>https://mastopeek.app-dist.eu</link>
+        <icon>fa-line-chart</icon>
+        <keywords>
+            <keyword>search</keyword>
+            <keyword>tools</keyword>
+            <keyword>api uses</keyword>
+            <keyword>uptime</keyword>
+            <keyword>monitoring</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>4</id>
+        <name>11t</name>
+        <description>11t is an iOS and Android app for connecting to Mastodon, written in FuseTools. 11t lets you use any Mastodon instance.</description>
+        <link>https://github.com/jeroensmeets/mastodon-app</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>android</keyword>
+            <keyword>ios</keyword>
+            <keyword>iphone</keyword>
+            <keyword>ipad</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>5</id>
+        <name>AndStatus</name>
+        <description>Open Source multiple accounts client for multiple social networks for Android</description>
+        <link>http://andstatus.org/</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>android</keyword>
+            <keyword>fdroid</keyword>
+            <keyword>f-droid</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>6</id>
+        <name>Mastalab</name>
+        <description>Mastodon client for Android devices</description>
+        <link>https://github.com/stom79/mastalab</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>android</keyword>
+            <keyword>fdroid</keyword>
+            <keyword>f-droid</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>7</id>
+        <name>SubwayTooter</name>
+        <description>Mastodon client app for Android</description>
+        <link>https://github.com/tateisu/SubwayTooter</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>android</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>8</id>
+        <name>Tusky</name>
+        <description>Mastodon client for Android</description>
+        <link>https://tuskyapp.github.io/</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>android</keyword>
+            <keyword>fdroid</keyword>
+            <keyword>f-droid</keyword>
+            <keyword>amazon</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>9</id>
+        <name>Twidere</name>
+        <description>Material Design ready and feature rich Twitter app (that support Mastodon accounts) for Android 4.0+</description>
+        <link>https://github.com/TwidereProject/Twidere-Android</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>android</keyword>
+            <keyword>fdroid</keyword>
+            <keyword>f-droid</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>10</id>
+        <name>Mastobone</name>
+        <description>Mastodon client app barebone for iOS and Android, built using React Native</description>
+        <link>http://mastobone.com/</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>android</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>11</id>
+        <name>Mousetodon</name>
+        <description>Android app to connect to the mastodon social network</description>
+        <link>https://github.com/cerisara/mousetodon</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>android</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>12</id>
+        <name>TootyFruity</name>
+        <description>TootyFruity is an Ionic 2 app to access Mastodon and other instances on the go! (iOS and Android)</description>
+        <link>https://github.com/eggplantPrince/tootyFruity</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>android</keyword>
+            <keyword>ios</keyword>
+            <keyword>iphone</keyword>
+            <keyword>ipad</keyword>
         </keywords>
     </tool>
 </database>
