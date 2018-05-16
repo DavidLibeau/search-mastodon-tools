@@ -59,7 +59,7 @@
         <name>AndStatus</name>
         <description>Open Source multiple accounts client for multiple social networks for Android</description>
         <link>http://andstatus.org/</link>
-        <icon>fa-mobile</icon>
+        <icon>fa-android</icon>
         <keywords>
             <keyword>smartphone</keyword>
             <keyword>app</keyword>
@@ -73,7 +73,7 @@
         <name>Mastalab</name>
         <description>Mastodon client for Android devices</description>
         <link>https://github.com/stom79/mastalab</link>
-        <icon>fa-mobile</icon>
+        <icon>fa-android</icon>
         <keywords>
             <keyword>smartphone</keyword>
             <keyword>app</keyword>
@@ -87,7 +87,7 @@
         <name>SubwayTooter</name>
         <description>Mastodon client app for Android</description>
         <link>https://github.com/tateisu/SubwayTooter</link>
-        <icon>fa-mobile</icon>
+        <icon>fa-android</icon>
         <keywords>
             <keyword>smartphone</keyword>
             <keyword>app</keyword>
@@ -114,7 +114,7 @@
         <name>Twidere</name>
         <description>Material Design ready and feature rich Twitter app (that support Mastodon accounts) for Android 4.0+</description>
         <link>https://github.com/TwidereProject/Twidere-Android</link>
-        <icon>fa-mobile</icon>
+        <icon>fa-android</icon>
         <keywords>
             <keyword>smartphone</keyword>
             <keyword>app</keyword>
@@ -128,7 +128,7 @@
         <name>Mastobone</name>
         <description>Mastodon client app barebone for iOS and Android, built using React Native</description>
         <link>http://mastobone.com/</link>
-        <icon>fa-mobile</icon>
+        <icon>fa-android</icon>
         <keywords>
             <keyword>smartphone</keyword>
             <keyword>app</keyword>
@@ -140,7 +140,7 @@
         <name>Mousetodon</name>
         <description>Android app to connect to the mastodon social network</description>
         <link>https://github.com/cerisara/mousetodon</link>
-        <icon>fa-mobile</icon>
+        <icon>fa-android</icon>
         <keywords>
             <keyword>smartphone</keyword>
             <keyword>app</keyword>
@@ -160,6 +160,141 @@
             <keyword>ios</keyword>
             <keyword>iphone</keyword>
             <keyword>ipad</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>13</id>
+        <name>Amaroq</name>
+        <description>A floofy Mastodon companion for iOS</description>
+        <link>https://github.com/ReticentJohn/Amaroq</link>
+        <icon>fa-apple</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>ios</keyword>
+            <keyword>iphone</keyword>
+            <keyword>ipad</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>14</id>
+        <name>iMast</name>
+        <description>iOS app, Mastodonの 非公式クライアントです。</description>
+        <link>https://cinderella-project.github.io/iMast/</link>
+        <icon>fa-apple</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>ios</keyword>
+            <keyword>iphone</keyword>
+            <keyword>ipad</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>15</id>
+        <name>Tooter</name>
+        <description>Tooter is Mastodon client for Sailfish OS</description>
+        <link>https://openrepos.net/content/dysko/tooter</link>
+        <icon>fa-mobile</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>Sailfish</keyword>
+            <keyword>Sailfish OS</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>16</id>
+        <name>Mstdn</name>
+        <description>Tiny web-based mastodon client for your desktop</description>
+        <link>https://github.com/rhysd/Mstdn</link>
+        <icon>fa-desktop</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>linux</keyword>
+            <keyword>mac</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>17</id>
+        <name>TheDesk</name>
+        <description>Mastodon client for Windows/Linux. オープンソースSNSマストドンのWindows/Linuxクライアント</description>
+        <link>https://github.com/cutls/TheDesk</link>
+        <icon>fa-desktop</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>linux</keyword>
+            <keyword>windows</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>18</id>
+        <name>mastodon-jfx</name>
+        <description>mastodon-jfx is a desktop client for Mastodon written in kotlin using TornadoFX.</description>
+        <link>https://github.com/cutls/TheDesk</link>
+        <icon>fa-desktop</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>linux</keyword>
+            <keyword>javafx</keyword>
+            <keyword>kotlin</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>19</id>
+        <name>Capella</name>
+        <description>Windows client</description>
+        <link>https://coolstar.org/capella/</link>
+        <icon>fa-windows</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>windows</keyword>
+            <keyword>windows 7</keyword>
+            <keyword>windows 8.1</keyword>
+            <keyword>windows 10</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>20</id>
+        <name>Flantter</name>
+        <description>Flantter is twitter client and mastodon client for windows store</description>
+        <link>https://www.microsoft.com/en-ca/store/p/flantter/9wzdncrcrpmn?rtc=1</link>
+        <icon>fa-windows</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>windows</keyword>
+            <keyword>windows 10</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>21</id>
+        <name>Tuuto</name>
+        <description>Tuuto is a open-source, lightweight client for Mastodon, a free and open-source social network server.</description>
+        <link>https://www.microsoft.com/en-ca/store/p/tuuto/9nh0493n4tsb?rtc=1</link>
+        <icon>fa-windows</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>windows</keyword>
+            <keyword>windows 10</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>22</id>
+        <name>WinMasto</name>
+        <description>A mastodon client for Windows 10</description>
+        <link>https://github.com/drasticactions/WinMasto</link>
+        <icon>fa-windows</icon>
+        <keywords>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>windows</keyword>
+            <keyword>windows 10</keyword>
         </keywords>
     </tool>
 </database>
