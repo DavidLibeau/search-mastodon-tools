@@ -32,11 +32,11 @@
         <link>https://mastopeek.app-dist.eu</link>
         <icon>fa-line-chart</icon>
         <keywords>
-            <keyword>search</keyword>
-            <keyword>tools</keyword>
-            <keyword>api uses</keyword>
             <keyword>uptime</keyword>
             <keyword>monitoring</keyword>
+            <keyword>server</keyword>
+            <keyword>instance</keyword>
+            <keyword>fediverse</keyword>
         </keywords>
     </tool>
     <tool>
@@ -128,11 +128,14 @@
         <name>Mastobone</name>
         <description>Mastodon client app barebone for iOS and Android, built using React Native</description>
         <link>http://mastobone.com/</link>
-        <icon>fa-android</icon>
+        <icon>fa-mobile</icon>
         <keywords>
             <keyword>smartphone</keyword>
             <keyword>app</keyword>
             <keyword>android</keyword>
+            <keyword>ios</keyword>
+            <keyword>iphone</keyword>
+            <keyword>ipad</keyword>
         </keywords>
     </tool>
     <tool>
