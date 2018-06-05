@@ -300,4 +300,42 @@
             <keyword>windows 10</keyword>
         </keywords>
     </tool>
+    <tool>
+        <id>23</id>
+        <name>Mastodon User Matching</name>
+        <description>Find users similar to you in Mastodon/Pleroma fediverse, by their vocabulary.</description>
+        <link>http://vinayaka.distsn.org</link>
+        <icon>fa-users</icon>
+        <keywords>
+            <keyword>search</keyword>
+            <keyword>web</keyword>
+            <keyword>fediverse</keyword>
+            <keyword>users</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>24</id>
+        <name>Mastodon/Pleroma User Search</name>
+        <description>Search users in Mastodon/Pleroma fediverse by user name, screen name and bio.</description>
+        <link>http://vinayaka.distsn.org/user-search.html</link>
+        <icon>fa-users</icon>
+        <keywords>
+            <keyword>search</keyword>
+            <keyword>web</keyword>
+            <keyword>fediverse</keyword>
+            <keyword>users</keyword>
+        </keywords>
+    </tool>
+    <tool>
+        <id>25</id>
+        <name>Mastodon/Pleroma Newcomers</name>
+        <description>List of Mastodon/Pleroma Newcomers.</description>
+        <link>http://vinayaka.distsn.org/user-new.html</link>
+        <icon>fa-user-plus</icon>
+        <keywords>
+            <keyword>web</keyword>
+            <keyword>fediverse</keyword>
+            <keyword>users</keyword>
+        </keywords>
+    </tool>
 </database>
