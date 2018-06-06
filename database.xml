@@ -236,7 +236,7 @@
         <id>18</id>
         <name>mastodon-jfx</name>
         <description>mastodon-jfx is a desktop client for Mastodon written in kotlin using TornadoFX.</description>
-        <link>https://github.com/cutls/TheDesk</link>
+        <link>https://github.com/wakingrufus/mastodon-jfx</link>
         <icon>fa-desktop</icon>
         <keywords>
             <keyword>smartphone</keyword>
