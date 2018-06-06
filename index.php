@@ -23,7 +23,7 @@
                 $xml=simplexml_load_string($database);
                 $xmlArray = array();
                 foreach ($xml->tool as $tool_tmp) $xmlArray[] = $tool_tmp;
-                $xmlArray = shuffle($xmlArray);
+                shuffle($xmlArray);
                 foreach ($xmlArray as $tool) {?>
                 <a class="tool" data-id="<?php echo($tool->id); ?>" href="<?php echo($tool->link); ?>" target="_blank" rel="noopener noreferrer">
                     <h2><i class="fa <?php echo($tool->icon); ?>" aria-hidden="true"></i><?php echo($tool->name); ?></h2>
