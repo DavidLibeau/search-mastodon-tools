@@ -21,7 +21,10 @@
             $database=file_get_contents("database.xml", FILE_USE_INCLUDE_PATH);
             if($database!=false){
                 $xml=simplexml_load_string($database);
-                foreach ($xml->tool as $tool) {?>
+                $xmlArray = array();
+                foreach ($xml->tool as $tool_tmp) $xmlArray[] = $tool_tmp;
+                $xmlArray = shuffle($xmlArray);
+                foreach ($xmlArray as $tool) {?>
                 <a class="tool" data-id="<?php echo($tool->id); ?>" href="<?php echo($tool->link); ?>" target="_blank" rel="noopener noreferrer">
                     <h2><i class="fa <?php echo($tool->icon); ?>" aria-hidden="true"></i><?php echo($tool->name); ?></h2>
                     <p><?php echo($tool->description); ?></p>
