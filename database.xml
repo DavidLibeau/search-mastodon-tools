@@ -302,9 +302,9 @@
     </tool>
     <tool>
         <id>23</id>
-        <name>Mastodon User Matching</name>
-        <description>Find users similar to you in Mastodon/Pleroma fediverse, by their vocabulary.</description>
-        <link>http://vinayaka.distsn.org</link>
+        <name>User Matching for GNU social, Mastodon, Pleroma, and Misskey</name>
+        <description>Find users similar to you, by their vocabulary.</description>
+        <link>https://vinayaka.distsn.org</link>
         <icon>fa-users</icon>
         <keywords>
             <keyword>search</keyword>
@@ -315,9 +315,9 @@
     </tool>
     <tool>
         <id>24</id>
-        <name>Mastodon/Pleroma User Search</name>
-        <description>Search users in Mastodon/Pleroma fediverse by user name, screen name and bio.</description>
-        <link>http://vinayaka.distsn.org/user-search.html</link>
+        <name>User Search for GNU social, Mastodon, Pleroma, and Misskey</name>
+        <description>Search users by user name, screen name, and bio.</description>
+        <link>https://vinayaka.distsn.org/user-search.html</link>
         <icon>fa-users</icon>
         <keywords>
             <keyword>search</keyword>
@@ -328,9 +328,9 @@
     </tool>
     <tool>
         <id>25</id>
-        <name>Mastodon/Pleroma Newcomers</name>
-        <description>List of Mastodon/Pleroma Newcomers.</description>
-        <link>http://vinayaka.distsn.org/user-new.html</link>
+        <name>Newcomers in GNU social, Mastodon, Pleroma, and Misskey</name>
+        <description>Newcomers in GNU social, Mastodon, Pleroma, and Misskey</description>
+        <link>https://vinayaka.distsn.org/user-new.html</link>
         <icon>fa-user-plus</icon>
         <keywords>
             <keyword>web</keyword>
