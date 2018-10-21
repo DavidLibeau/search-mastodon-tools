@@ -338,4 +338,18 @@
             <keyword>users</keyword>
         </keywords>
     </tool>
+    <tool>
+        <id>26</id>
+        <name>Whalebird</name>
+        <description>Whalebird is a Mastodon and Pleroma client for desktop</description>
+        <link>https://whalebird.org/en/</link>
+        <icon>fa-desktop</icon>
+        <keywords>
+            <keyword>windows</keyword>
+            <keyword>mac</keyword>
+            <keyword>linux</keyword>
+            <keyword>fediverse</keyword>
+            <keyword>pleroma</keyword>
+        </keywords>
+    </tool>
 </database>
