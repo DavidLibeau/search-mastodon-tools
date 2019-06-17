@@ -302,9 +302,9 @@
     </tool>
     <tool>
         <id>23</id>
-        <name>User Matching for GNU social, Mastodon, Pleroma, and Misskey</name>
+        <name>User Matching for GNU social, Mastodon, Pleroma, and microblog.pub</name>
         <description>Find users similar to you, by their vocabulary.</description>
-        <link>https://vinayaka.distsn.org</link>
+        <link>https://distsn.org/user-match.html</link>
         <icon>fa-users</icon>
         <keywords>
             <keyword>search</keyword>
@@ -315,9 +315,9 @@
     </tool>
     <tool>
         <id>24</id>
-        <name>User Search for GNU social, Mastodon, Pleroma, and Misskey</name>
+        <name>User Search for GNU social, Mastodon, Pleroma, and microblog.pub</name>
         <description>Search users by user name, screen name, and bio.</description>
-        <link>https://vinayaka.distsn.org/user-search.html</link>
+        <link>https://distsn.org/user-search.html</link>
         <icon>fa-users</icon>
         <keywords>
             <keyword>search</keyword>
@@ -328,9 +328,9 @@
     </tool>
     <tool>
         <id>25</id>
-        <name>Newcomers in GNU social, Mastodon, Pleroma, and Misskey</name>
-        <description>Newcomers in GNU social, Mastodon, Pleroma, and Misskey</description>
-        <link>https://vinayaka.distsn.org/user-new.html</link>
+        <name>Newcomers in GNU social, Mastodon, Pleroma, and microblog.pub</name>
+        <description>Newcomers in GNU social, Mastodon, Pleroma, and microblog.pub</description>
+        <link>https://distsn.org/user-new.html</link>
         <icon>fa-user-plus</icon>
         <keywords>
             <keyword>web</keyword>
