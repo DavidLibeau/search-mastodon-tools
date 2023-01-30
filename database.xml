@@ -352,4 +352,18 @@
             <keyword>pleroma</keyword>
         </keywords>
     </tool>
+        <tool>
+        <id>27</id>
+        <name>Ivory</name>
+        <description>A Mastodon client from the makers of Tweetbot</description>
+        <link>https://tapbots.com/ivory/</link>
+        <icon>fa-apple</icon>
+        <keywords>
+            <keyword>apple</keyword>
+            <keyword>smartphone</keyword>
+            <keyword>app</keyword>
+            <keyword>ios</keyword>
+            <keyword>iphone</keyword>
+        </keywords>
+    </tool>
 </database>
